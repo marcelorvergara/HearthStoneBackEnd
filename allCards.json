@@ -1,0 +1,904 @@
+{
+  "allCards": [
+    {
+      "id": "1ed2f6f9-6f65-4126-a3b9-5f6414768aac",
+      "nome": "Sra. Lara Alves",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 4,
+      "defesa": 7,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "b1db9a58-d898-43c2-8993-25b1d8e7d359",
+      "nome": "Bernardo Nunes",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 7,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "2a94ab5f-45a0-4585-a21a-5412a5f21599",
+      "nome": "Luiz Otávio da Cunha",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 1,
+      "defesa": 3,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "69f390b7-d43a-40d7-a920-2ea811fae294",
+      "nome": "João Pedro Ribeiro",
+      "descricao": "She always speaks to him in a loud voice.",
+      "ataque": 10,
+      "defesa": 10,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "29f4a7ea-fb0c-4ea0-b381-59f55938a265",
+      "nome": "Cecília da Rocha",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 8,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "484214ee-6dce-46b3-9ebe-7727ec632057",
+      "nome": "Laura Ribeiro",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 10,
+      "defesa": 10,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "a3f7ebb2-fa5c-400a-a4bf-1aa258cd3df9",
+      "nome": "Dra. Caroline Santos",
+      "descricao": "At last",
+      "ataque": 2,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "689ea052-d710-4214-9c7d-c65523696480",
+      "nome": "Daniela Peixoto",
+      "descricao": "A quiet house is nice until you are ordered to stay in it for months.",
+      "ataque": 6,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "cc2bd906-b839-4e40-bff5-5488d71334d9",
+      "nome": "Diogo Rodrigues",
+      "descricao": "One small action would change her life, but whether it would be for better or for worse was yet to be determined.",
+      "ataque": 8,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "fb1b8dd2-dab9-414a-a99e-034b890bd237",
+      "nome": "Nicolas da Cunha",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 2,
+      "defesa": 6,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "8ea1cd39-6b20-4c42-bc89-9b7f8ccf0e92",
+      "nome": "João Pedro Ribeiro",
+      "descricao": "She always speaks to him in a loud voice.",
+      "ataque": 2,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "bc750653-83ed-4011-9b9c-1f57dfabc009",
+      "nome": "Rafael Nunes",
+      "descricao": "The Japanese yen for commerce is still well-known.",
+      "ataque": 5,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "fa6d1553-c618-4a49-9833-ced342e599f7",
+      "nome": "Beatriz Carvalho",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 9,
+      "defesa": 3,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "0eb5e285-ebdf-4b60-a1cb-d0c46d0d57cd",
+      "nome": "Gabrielly Fogaça",
+      "descricao": "He dreamed of leaving his law firm to open a portable dog wash.",
+      "ataque": 1,
+      "defesa": 5,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "c5118dbb-d41d-43f3-95fc-ac63a4d75bc6",
+      "nome": "Dra. Ana Sales",
+      "descricao": "The efficiency with which he paired the socks in the drawer was quite admirable.",
+      "ataque": 5,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "29e22616-becf-4773-a662-222e4b3db7bd",
+      "nome": "Camila Nascimento",
+      "descricao": "The father died during childbirth.",
+      "ataque": 4,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "7eb5446e-9c8d-4ca2-a2f4-50620679fe2a",
+      "nome": "Bernardo Nunes",
+      "descricao": "She always speaks to him in a loud voice.",
+      "ataque": 8,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "ea8ec9d3-335a-412e-a5eb-50ba817a6643",
+      "nome": "Raul Silva",
+      "descricao": "I liked their first two albums but changed my mind after that charity gig.",
+      "ataque": 7,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "46e12c90-6780-4d71-8bbd-10e5f19ba1da",
+      "nome": "Sra. Lara Alves",
+      "descricao": "I liked their first two albums but changed my mind after that charity gig.",
+      "ataque": 5,
+      "defesa": 7,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "3b21b5fd-30a0-4e8b-a73f-03075cb5801a",
+      "nome": "Benjamin Pinto",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 8,
+      "defesa": 8,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "b731c56e-1ce9-4181-a173-fe4d86c05fac",
+      "nome": "Levi Almeida",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 9,
+      "defesa": 8,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "fcd5a8ec-061f-489a-b60c-204b4d261b90",
+      "nome": "Kaique Freitas",
+      "descricao": "At last",
+      "ataque": 6,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "433b7251-1f73-4e1a-8774-645631fa95ec",
+      "nome": "Levi Almeida",
+      "descricao": "Her hair was windswept as she rode in the black convertible.",
+      "ataque": 3,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "e2d69025-4135-48e3-9cbb-9379290c7f36",
+      "nome": "Sophia da Rocha",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 7,
+      "defesa": 2,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "19297cb2-3137-4a14-bdab-308944155911",
+      "nome": "Enzo da Conceição",
+      "descricao": "Theyre playing the piano while flying in the plane.",
+      "ataque": 6,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "4e5aa972-1f69-43bf-a8d4-3a9045377565",
+      "nome": "Emilly da Rosa",
+      "descricao": "The glacier came alive as the climbers hiked closer.",
+      "ataque": 10,
+      "defesa": 6,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "5abd1db3-1df5-416f-9dab-50c6c6ad4202",
+      "nome": "Dra. Pietra Cardoso",
+      "descricao": "I liked their first two albums but changed my mind after that charity gig.",
+      "ataque": 8,
+      "defesa": 10,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "c5a949bb-3c7f-4ce0-b920-ceb98fc736d6",
+      "nome": "Nicolas da Cunha",
+      "descricao": "It caught him off guard that space smelled of seared steak.",
+      "ataque": 6,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "7d6022c5-1f77-4e1f-8f66-a8240aa03817",
+      "nome": "Srta. Heloísa da Cruz",
+      "descricao": "The glacier came alive as the climbers hiked closer.",
+      "ataque": 9,
+      "defesa": 7,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "b62fec2b-9296-48c9-a5be-db21250738a9",
+      "nome": "Benício Barbosa",
+      "descricao": "Theyre playing the piano while flying in the plane.",
+      "ataque": 9,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "480f08ff-f59a-4586-a985-1e309f22e482",
+      "nome": "Luiza Monteiro",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 10,
+      "defesa": 7,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "e48acc38-1e92-4f48-b5c6-7efdc301303b",
+      "nome": "Daniela Peixoto",
+      "descricao": "It was obvious she was hot, sweaty, and tired.",
+      "ataque": 8,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "510cad09-b886-4342-9dcf-28c82701d902",
+      "nome": "João Miguel Nascimento",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 1,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "470c1fef-64ff-4401-a273-9516cc3d6187",
+      "nome": "Valentina Alves",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 9,
+      "defesa": 8,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "3d0c6b1c-7ab6-4d88-89dc-2573d446ef1a",
+      "nome": "João Guilherme Nascimento",
+      "descricao": "Trash covered the landscape like sprinkles do a birthday cake.",
+      "ataque": 7,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "1378df70-0eb6-4302-a040-a9a89a938881",
+      "nome": "Dra. Pietra Cardoso",
+      "descricao": "The pet shop stocks everything you need to keep your anaconda happy.",
+      "ataque": 3,
+      "defesa": 5,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "579ad973-24a3-40e0-be3d-c76ed0f85f01",
+      "nome": "Ryan Gomes",
+      "descricao": "It caught him off guard that space smelled of seared steak.",
+      "ataque": 7,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "4f7acbaa-c50f-4856-9c29-4b9463b2eaf8",
+      "nome": "Emanuelly Fogaça",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 2,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "bb5f9b84-e568-49e0-ae25-79c02337c333",
+      "nome": "Maria Alice Pereira",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 10,
+      "defesa": 9,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "68387d53-4706-4645-ad10-84aae2f50275",
+      "nome": "Juan Porto",
+      "descricao": "The efficiency with which he paired the socks in the drawer was quite admirable.",
+      "ataque": 6,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "b158771e-5485-435b-923e-cc24507abb03",
+      "nome": "Vinicius Cardoso",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 6,
+      "defesa": 2,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "46202508-f8d8-4b8c-a4e5-0da623232f62",
+      "nome": "Srta. Mariana Santos",
+      "descricao": "The two walked down the slot canyon oblivious to the sound of thunder in the distance.",
+      "ataque": 4,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "0c2bba2e-f764-4ed5-bb5c-f1f8cb80f414",
+      "nome": "Ryan Barros",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 4,
+      "defesa": 5,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "6b5f3f7c-46f4-414e-bb45-7e558e556209",
+      "nome": "Kamilly Correia",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 6,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "9a407ed6-21fa-46e3-b409-dffec2a9785f",
+      "nome": "Pedro Henrique da Conceição",
+      "descricao": "I liked their first two albums but changed my mind after that charity gig.",
+      "ataque": 10,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "38fd2dac-216c-4793-bb0d-3a125e47a594",
+      "nome": "Laura Barros",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 3,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "0f26f832-5c14-4cac-a44f-89a34d661379",
+      "nome": "João Santos",
+      "descricao": "He felt that dining on the bridge brought romance to his relationship with his cat.",
+      "ataque": 9,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "3ec26bdc-fb99-4bfa-b556-503cf519662f",
+      "nome": "Heitor Duarte",
+      "descricao": "The father died during childbirth.",
+      "ataque": 10,
+      "defesa": 9,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "e977f438-adc4-42c2-9b41-f35ae0627fc4",
+      "nome": "Kevin da Costa",
+      "descricao": "Facing his greatest fear, he ate his first marshmallow.",
+      "ataque": 3,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "5df2e24f-12d1-4114-a5d9-d525ecb804b6",
+      "nome": "Pedro Henrique Nunes",
+      "descricao": "Sarah ran from the serial killer holding a jug of milk.",
+      "ataque": 4,
+      "defesa": 1,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "c13dab73-82a1-4d72-b487-264e8888f045",
+      "nome": "Gustavo Fogaça",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 9,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "2fe59e56-5175-4e39-91e2-07792d1aab5e",
+      "nome": "Noah Novaes",
+      "descricao": "The Japanese yen for commerce is still well-known.",
+      "ataque": 2,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "c166a2e2-aa43-4995-a1c0-daa7314b9210",
+      "nome": "Bernardo Nunes",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 7,
+      "defesa": 2,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "00f946ba-182e-477c-931e-02a043647aa2",
+      "nome": "Ryan Gomes",
+      "descricao": "I often see the time 11:11 or 12:34 on clocks.",
+      "ataque": 2,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "59dfef20-5deb-4c0d-be42-95783de52564",
+      "nome": "Enzo da Conceição",
+      "descricao": "A quiet house is nice until you are ordered to stay in it for months.",
+      "ataque": 4,
+      "defesa": 1,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "de413b57-dd54-41ca-aa14-a19b999b2ac9",
+      "nome": "Nicolas da Cunha",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 2,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "9e9c2d87-960b-4472-a5cc-8638fea166e1",
+      "nome": "Gabriel das Neves",
+      "descricao": "I am happy to take your donation; any amount will be greatly appreciated.",
+      "ataque": 7,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "35ebb705-bf48-406a-a0b7-8e66b0f863f1",
+      "nome": "Dra. Pietra Cardoso",
+      "descricao": "Facing his greatest fear, he ate his first marshmallow.",
+      "ataque": 8,
+      "defesa": 9,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "b1c89212-fae4-4122-b224-cfa864af7e08",
+      "nome": "Erick da Cruz",
+      "descricao": "It caught him off guard that space smelled of seared steak.",
+      "ataque": 6,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "d0e98d14-62ae-4221-aa41-d6b781d7b8d9",
+      "nome": "Pedro Henrique Moreira",
+      "descricao": "One small action would change her life, but whether it would be for better or for worse was yet to be determined.",
+      "ataque": 9,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "22d96a0a-2ffd-476c-af65-809ba5a41f2a",
+      "nome": "Gustavo Lopes",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 2,
+      "defesa": 10,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "e9c583e6-9c82-4b33-8f56-9293266841fe",
+      "nome": "Emilly da Rosa",
+      "descricao": "The efficiency with which he paired the socks in the drawer was quite admirable.",
+      "ataque": 1,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "8d2c7ee0-3b98-4a86-9560-5d428d97aae0",
+      "nome": "Rafael Nunes",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 5,
+      "defesa": 10,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "c6cdb7c9-2586-441d-9d64-beb93cefa02b",
+      "nome": "Dr. Lorenzo Fogaça",
+      "descricao": "Love is not like pizza.",
+      "ataque": 5,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "60802367-6579-4cd2-8709-c801b8de628e",
+      "nome": "Lucas Gabriel Pereira",
+      "descricao": "We need to rent a room for our party.",
+      "ataque": 10,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "0368d735-1984-47b9-a175-4d5f80ece189",
+      "nome": "Diogo Rodrigues",
+      "descricao": "He felt that dining on the bridge brought romance to his relationship with his cat.",
+      "ataque": 3,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "1318ca36-111e-4561-8381-155a4bb374e7",
+      "nome": "Carolina Martins",
+      "descricao": "The pet shop stocks everything you need to keep your anaconda happy.",
+      "ataque": 3,
+      "defesa": 4,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "028a1902-475c-4df7-a63b-9fb6e873ecce",
+      "nome": "Gustavo Fogaça",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 6,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "ae34a787-d918-47f9-a425-1a340edc7714",
+      "nome": "Pietra Ferreira",
+      "descricao": "At last",
+      "ataque": 2,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "2c3b8ab3-60ff-4318-9ea7-de3d727c391d",
+      "nome": "Luiz Gustavo Ribeiro",
+      "descricao": "It was obvious she was hot, sweaty, and tired.",
+      "ataque": 6,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "2cbb491d-9d7e-40ca-b25f-31c4643f69ae",
+      "nome": "João Vitor Rodrigues",
+      "descricao": "Cats are good pets, for they are clean and are not noisy.",
+      "ataque": 8,
+      "defesa": 7,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "5fff2f45-c3a0-4c14-ae20-0ae135e2f583",
+      "nome": "Luiz Gustavo Ribeiro",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 3,
+      "defesa": 2,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "55cb708c-7b3b-48bf-b5fc-c9c0ea78d402",
+      "nome": "Dr. Rodrigo Monteiro",
+      "descricao": "Traveling became almost extinct during the pandemic.",
+      "ataque": 5,
+      "defesa": 3,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "a64daeaa-312a-4b1b-883a-d6cc154ef509",
+      "nome": "Dra. Helena Campos",
+      "descricao": "I liked their first two albums but changed my mind after that charity gig.",
+      "ataque": 2,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "e369e15a-9a74-4985-83aa-f2c11faf3dbf",
+      "nome": "Srta. Maria Cavalcanti",
+      "descricao": "The father died during childbirth.",
+      "ataque": 6,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "ba42a961-8e8b-494b-aad9-df381fd0c4b9",
+      "nome": "Luiza Monteiro",
+      "descricao": "Sarah ran from the serial killer holding a jug of milk.",
+      "ataque": 5,
+      "defesa": 4,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "bc88d130-f990-4b7a-b421-3a7e82b039d4",
+      "nome": "Kaique Freitas",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 7,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "57567a90-c56d-44cd-a268-635548d9a3a1",
+      "nome": "Juan Porto",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 6,
+      "defesa": 3,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "3000f3f9-60e5-440d-a8c0-fc6cc22998a6",
+      "nome": "Pedro Henrique Moreira",
+      "descricao": "The efficiency with which he paired the socks in the drawer was quite admirable.",
+      "ataque": 6,
+      "defesa": 10,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "117df65e-a1de-4285-830b-812689f8e31c",
+      "nome": "Diogo Rodrigues",
+      "descricao": "The pet shop stocks everything you need to keep your anaconda happy.",
+      "ataque": 6,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "c9f8e0dd-34df-4edb-8202-e0f0a7581d83",
+      "nome": "Noah Novaes",
+      "descricao": "The pet shop stocks everything you need to keep your anaconda happy.",
+      "ataque": 6,
+      "defesa": 10,
+      "tipo": "criatura",
+      "classe": "caçador"
+    },
+    {
+      "id": "3a8b0add-4353-4ee9-afa5-cd95f47adf68",
+      "nome": "Dra. Caroline Santos",
+      "descricao": "Trash covered the landscape like sprinkles do a birthday cake.",
+      "ataque": 2,
+      "defesa": 8,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "a79b48a9-c51d-440b-9be3-074fa19e3ef8",
+      "nome": "Dra. Pietra Cardoso",
+      "descricao": "I often see the time 11:11 or 12:34 on clocks.",
+      "ataque": 3,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "cc402283-f15a-4804-a90a-f057e9ac3536",
+      "nome": "Sr. Lorenzo Barbosa",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 1,
+      "defesa": 9,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "129ac28f-e827-4067-8e47-24aeb256b25d",
+      "nome": "Srta. Maria Cavalcanti",
+      "descricao": "Sarah ran from the serial killer holding a jug of milk.",
+      "ataque": 2,
+      "defesa": 1,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "5992c9d8-8ab6-4352-ba26-11335c2ff324",
+      "nome": "Dra. Ana Sales",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 6,
+      "defesa": 3,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "db908842-8818-46b2-ab1a-1cd240475dc5",
+      "nome": "Raul Silva",
+      "descricao": "When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+      "ataque": 8,
+      "defesa": 7,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "78da6b1b-f5ed-49e8-8cf4-cb7b7fa9420b",
+      "nome": "Enzo da Conceição",
+      "descricao": "I am happy to take your donation; any amount will be greatly appreciated.",
+      "ataque": 5,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "5045985f-6481-4a87-b2ea-60e6cc7e821a",
+      "nome": "Pietra Oliveira",
+      "descricao": "It caught him off guard that space smelled of seared steak.",
+      "ataque": 6,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "fd95a804-77e4-4829-8ef0-7f4aebeacbcc",
+      "nome": "Dr. Rodrigo Monteiro",
+      "descricao": "He dreamed of leaving his law firm to open a portable dog wash.",
+      "ataque": 9,
+      "defesa": 1,
+      "tipo": "magia",
+      "classe": "paladino"
+    },
+    {
+      "id": "d33dc1ab-df0d-47a5-aca8-c9b6485caa82",
+      "nome": "Luiz Gustavo Ribeiro",
+      "descricao": "The Japanese yen for commerce is still well-known.",
+      "ataque": 4,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "7521d631-746f-40cd-8204-8708366f8de4",
+      "nome": "Dr. Carlos Eduardo Gonçalves",
+      "descricao": "Her hair was windswept as she rode in the black convertible.",
+      "ataque": 10,
+      "defesa": 3,
+      "tipo": "criatura",
+      "classe": "qualquer"
+    },
+    {
+      "id": "a8653a33-e617-4f77-9447-e3e6e6e43127",
+      "nome": "Eduardo Alves",
+      "descricao": "The two walked down the slot canyon oblivious to the sound of thunder in the distance.",
+      "ataque": 1,
+      "defesa": 9,
+      "tipo": "magia",
+      "classe": "druida"
+    },
+    {
+      "id": "e1a4e9ed-61c0-497c-b283-9191e776f4d8",
+      "nome": "Pietra Oliveira",
+      "descricao": "He found the chocolate covered roaches quite tasty.",
+      "ataque": 1,
+      "defesa": 2,
+      "tipo": "magia",
+      "classe": "caçador"
+    },
+    {
+      "id": "4a880968-6576-4156-9551-7f8fc43bda2e",
+      "nome": "Luiz Gustavo Ribeiro",
+      "descricao": "Facing his greatest fear, he ate his first marshmallow.",
+      "ataque": 2,
+      "defesa": 3,
+      "tipo": "criatura",
+      "classe": "paladino"
+    },
+    {
+      "id": "926c2b00-da4f-4846-9ba4-ab5a233ecd47",
+      "nome": "Arthur Dias",
+      "descricao": "With a single flip of the coin, his life changed forever.",
+      "ataque": 1,
+      "defesa": 1,
+      "tipo": "magia",
+      "classe": "mago"
+    },
+    {
+      "id": "ab7fc7b6-feab-400e-8074-955f7cd31710",
+      "nome": "Rafael Nunes",
+      "descricao": "He felt that dining on the bridge brought romance to his relationship with his cat.",
+      "ataque": 1,
+      "defesa": 10,
+      "tipo": "criatura",
+      "classe": "druida"
+    },
+    {
+      "id": "9e1c95d2-9b7f-4f80-9575-a8843db43daa",
+      "nome": "João Vitor Rodrigues",
+      "descricao": "A quiet house is nice until you are ordered to stay in it for months.",
+      "ataque": 9,
+      "defesa": 8,
+      "tipo": "magia",
+      "classe": "qualquer"
+    },
+    {
+      "id": "3367bd95-f617-4554-971d-2f8a95f50d94",
+      "nome": "Pietra Oliveira",
+      "descricao": "The glacier came alive as the climbers hiked closer.",
+      "ataque": 3,
+      "defesa": 5,
+      "tipo": "criatura",
+      "classe": "mago"
+    },
+    {
+      "id": "b05d02b0-c343-4d2d-9025-db4d3f85840e",
+      "nome": "Sra. Alexia Carvalho",
+      "descricao": "Facing his greatest fear, he ate his first marshmallow.",
+      "ataque": 5,
+      "defesa": 6,
+      "tipo": "criatura",
+      "classe": "mago"
+    }
+  ]
+}
